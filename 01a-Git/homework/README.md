@@ -26,7 +26,7 @@ Dentro de nuestra terminal podemos: revisar nuestra estructura de archivos, aña
   $ cd [carpeta]
 ```
 
-"Make Directory": Crea una nueva carpeta en el directorio donde nos encontramos actualmente.
+"mMake Directory": Crea una nueva carpeta en el directorio donde nos encontramos actualmente.
 ```bash
   $ mkdir [nombre de la carpeta]
 ```
@@ -86,7 +86,8 @@ Una vez tengas la dirección copiada, abre una terminal nueva y escribe lo sigui
 
 
 ```bash
-  $ cd ~
+  $ cd 
+  
 
   $ cd CarpetaHenry
 
